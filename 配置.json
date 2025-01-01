@@ -1,0 +1,787 @@
+{
+	"sites": [{
+		"key": "wogg",
+		"name": "🦁玩偶哥哥",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "夸克网盘,夸克网盘2",
+
+		
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/wogg.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "mogg",
+		"name": "🐅木偶哥哥(UC)",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",		
+	        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/mogg.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "labi",
+		"name": "🐧蜡笔网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "夸克网盘,夸克网盘2",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/labi.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "mihdr",
+		"name": "🐮至臻网盘(夸克)",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "夸克网盘,夸克网盘2",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/mihdr.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},
+	
+{
+		"key": "duoduo",
+		"name": "🐚多多┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "夸克网盘,夸克网盘2",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/duoduo.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "xiaomi",
+		"name": "🍚小米┃UC盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/xiaomi.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "ouge",
+		"name": "🏰欧歌┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "夸克网盘,夸克网盘2",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/ouge.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "nanf",
+		"name": "🀁南风短剧┃夸克",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/nanf.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "cloud189",
+		"name": "🐋雷鲸┃天翼",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/189.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"key": "cfkj86",
+		"name": "金牌影院(直链)",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/jinpai.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+        "selectedPlayer":"0"
+	},{
+		"key": "gzys",
+		"name": "瓜子影视(直链)",
+		"type": 5,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/gzys.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "czzyzl",
+		"name": "厂长资源(直链)",
+		"type": 5,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "国产剧,番剧",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/czzy.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "1"
+	},{
+		"key": "qiyou",
+		"name": "奇优影院(直链)",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/qiyou.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "subaibai",
+		"name": "素白白影视(直链)",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "国产剧,番剧",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/js/subaibai.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "damifan",
+		"name": "大米星球(嗅探)",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/soup/dami_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "zjys",
+		"name": "荔枝影视(嗅探)",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/soup/zjys_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "laowang",
+		"name": "老王电影(嗅探)",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/soup/laowang_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "liic",
+		"name": "里里影院(嗅探)",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/soup/liic_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "keke1",
+		"name": "可可影视(嗅探)",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/soup/eke1_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "pptv66",
+		"name": "皮皮影视(嗅探)",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/soup/pptv_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "qnmp4",
+		"name": "七味影视(嗅探)",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/soup/qnmp4_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "555dy",
+		"name": "555电影(嗅探)",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/soup/555dy_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "ysgc",
+		"name": "影视工厂(嗅探)",
+		"type": 6,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alkt279/tBox_New/main/soup/ysgc_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "vidhub",
+		"name": "视频库(嗅探)",
+		"type": 4,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "内地剧,港台剧,国产动漫",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/xbiubiu/vidhub_xbiubiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "auete",
+		"name": "auete影视(嗅探)",
+		"type": 4,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/xbiubiu/auete_xbiubiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "shdy2",
+		"name": "骚火电影(嗅探)",
+		"type": 4,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/xbiubiu/shdy2_xbiubiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "88kan",
+		"name": "88看(嗅探)",
+		"type": 3,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/xbiu/88kan_xbiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ".akamaized.net/obj/"
+	},{
+		"key": "tvby02",
+		"name": "tvb云播(嗅探)",
+		"type": 3,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/xbiu/hktv03_XBiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "348z",
+		"name": "348电影(嗅探)",
+		"type": 3,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/xbiu/348z_xbiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "newfii",
+		"name": "奈落影视(嗅探)",
+		"type": 2,
+		"searchable": 0,
+		"filterClass": "纪录片,体育,私密,APP",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/xpath/newfii_xpath.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "ntdm9",
+		"name": "NT动漫(嗅探)",
+		"type": 4,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/xbiubiu/ntdm_xbiubiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "dm84",
+		"name": "动漫巴士(嗅探)",
+		"type": 2,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/xpath/dm84_xpath.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "1"
+	},{
+		"key": "qimiqimi",
+		"name": "奇米动漫(嗅探)",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/soup/qimi_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "58dongman",
+		"name": "58动漫(嗅探)",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/soup/58dongman_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "dmand5",
+		"name": "动漫岛(嗅探)",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/soup/dmand_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "360ys",
+		"name": "360影视",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "qq,youku,imgo,qiyi,bilibili1",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/360.js",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "82mao",
+		"name": "天龙资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "VIP影片,公告,动漫频道,海外动漫,国产动漫,日韩动漫,欧美动漫,港台动漫,综艺小品,微电影,电视剧场,电影频道,内地综艺,港台综艺,日韩综艺,欧美综艺",
+		"firstClass": "国产剧,香港剧",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://www.82mao.com/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "xiaomaomi",
+		"name": "小猫咪资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "短剧,其他,成人,小破站,资讯,影视资讯,明星资讯,演员,内地明星,港台明星,欧美明星,日韩明星,QQ群9342027",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "1080zyku",
+		"name": "1080资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "福利,记录片,电影,连续剧,综艺,动漫,预告片,体育,汽车,音乐,搞笑,影视,倫理片",
+		"firstClass": "国产剧,国产动漫",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://api.1080zyku.com/inc/api_mac10.php",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "ffzyapi",
+		"name": "非凡资源",
+		"type": 0,
+		"searchable": 1,
+		"filterClass": "伦理片,电影片,连续剧,综艺片,",
+		"firstClass": "国产剧,香港剧,韩国剧,国产动漫",
+		"filterPlay": "feifan",
+		"firstPlay": "",
+		"ext": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "iKunzy",
+		"name": "iKun资源",
+		"type": 0,
+		"searchable": 1,
+		"filterClass": "电影,连续剧,综艺,动漫,伦理片,体育,足球,内地明星,港台明星,德甲,意甲,英超,西甲,法甲,NBA,CBA,LPL,WCBA,篮球,里番动漫",
+		"firstClass": "国产剧,香港剧,国产动漫",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ikunzyapi.com/api.php/provide/vod/at/xml/",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "heimuer",
+		"name": "木耳资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "电影,电视剧,动漫,综艺,其它片,新马泰综艺,新马泰动漫,合集短剧,其它动漫,韩国动漫,短剧,同性片",
+		"firstClass": "国产剧,港剧,国产动漫",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://json02.heimuer.xyz/api.php/provide/vod/",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "1"
+	},{
+		"key": "hongniuzy2",
+		"name": "红牛资源",
+		"type": 1,
+		"searchable": 0,
+		"filterClass": "电影,连续剧,伦理片,体育赛事",
+		"firstClass": "国产剧,港澳剧",
+		"filterPlay": "hnyun",
+		"firstPlay": "hnm3u8",
+		"ext": "https://www.hongniuzy2.com/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "xinlangapi",
+		"name": "新浪资源",
+		"type": 1,
+		"searchable": 0,
+		"filterClass": "电影,电视剧,伦理片,体育",
+		"firstClass": "大陆剧,港澳剧",
+		"filterPlay": "xlyun",
+		"firstPlay": "xlm3u8",
+		"ext": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "apibdzy",
+		"name": "百度资源",
+		"type": 1,
+		"searchable": 0,
+		"filterClass": "电影,电视剧,综艺,动漫,邵氏电影,伦理片,体育赛事,资讯,电影资讯,明星资讯,预告",
+		"firstClass": "大陆剧,港澳剧,国产动漫",
+		"filterPlay": "bdyun",
+		"firstPlay": "bdm3u8",
+		"ext": "https://api.apibdzy.com/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "wolongzyw",
+		"name": "卧龙资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "电影片,连续剧,综艺片,动漫片,足球,伦理片,篮球,电影解说",
+		"firstClass": "国产剧,香港剧,国产动漫",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://collect.wolongzyw.com/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "suoniapi",
+		"name": "索尼资源",
+		"type": 1,
+		"searchable": 0,
+		"filterClass": "邵氏电影,伦理,写真热舞,西方伦理,日本伦理,影视解说,斯诺克,预告片,足球,篮球,体育赛事,两性课堂,韩国伦理,爽文短剧,电影,电视剧,综艺,动漫,港台三级",
+		"firstClass": "国产剧,港剧,国产动漫",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://suoniapi.com/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "tiankongapi",
+		"name": "天空资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "电影,体育赛事,电影解说",
+		"firstClass": "国产剧,香港剧,国产动漫",
+		"filterPlay": "tkyun",
+		"firstPlay": "tkm3u8",
+		"ext": "https://api.tiankongapi.com/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "wujinapi",
+		"name": "无尽资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "短剧,电影,连续剧,综艺,动漫,港台三级,韩国伦理,西方伦理,日本伦理,体育赛事,两性课堂,写真热舞,预告片,足球,影视解说,篮球,邵氏电影,伦理片,头条,公告,资讯",
+		"firstClass": "国产剧,香港剧,国产动漫",
+		"filterPlay": "",
+		"firstPlay": "wjm3u8",
+		"ext": "https://api.wujinapi.me/api.php/provide/vod/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "yunpan",
+		"name": "夸克云盘(仅搜索)",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/yunpan.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "pansou",
+		"name": "夸克盘搜(仅搜索)",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/pansou.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "yunpansou",
+		"name": "夸克云盘搜(仅搜索)",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/yunpansou.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	}],
+	"parses": [{
+		"name": "解析1",
+		"type": 0,
+		"url": "https://jx.xmflv.com/?url=",
+		"ext": {
+			"flag": ["bilibili1","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "imgo", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+			"header": {
+				"User-Agent": "okhttp/4.1.0"
+			}
+		}
+	},{
+		"name": "解析2",
+		"type": 0,
+		"url": "https://yparse.ik9.cc/index.php?url=",
+		"ext": {
+			"flag": ["bilibili1","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "imgo", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+			"header": {
+				"User-Agent": "okhttp/4.1.0"
+			}
+		}
+	},{
+		"name": "解析3",
+		"type": 1,
+		"url": "https://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+		"ext": {
+			"flag": ["bilibili1","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "imgo", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+			"header": {
+				"User-Agent": "okhttp/4.1.0"
+			}
+		}
+	},{
+		"name": "mytv解析",
+		"type": 0,
+		"url": "https://pl.qcheng.cc/hktvpc.php?url=",
+		"ext": {
+			"flag": ["mytv", "mytvb"],
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+                "Referer": "http://www.hktv03.com/"
+			}
+		}
+	},{
+		"name": "iKun解析",
+		"type": 0,
+		"url": "https://www.ikdmjx.com/?url=",
+		"ext": {
+			"flag": ["ikm3u8"],
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
+		}
+	},{
+		"name": "黑木耳解析",
+		"type": 0,
+		"url": "https://hoplayer.com/index.html?url=",
+		"ext": {
+			"flag": ["heimuer"],
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
+		}
+	}],
+	"flags": ["heimuer","bilibili1","ikm3u8", "mytvb", "mytv", "youku", "优酷", "优酷视频", "qq", "腾讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "m1905", "xigua", "letv", "leshi", "乐视", "sohu", "搜狐", "搜狐视频", "tudou", "pptv", "mgtv", "芒果", "imgo", "芒果TV", "bilibili", "哔哩", "哔哩哔哩", "B站", "renrenmi", "wasu", "ltnb", "rx", "SLYS4k", "BYGA", "BYGB", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "xmm", "xigua", "m1905", "funshion"]
+}
